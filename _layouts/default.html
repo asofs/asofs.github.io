@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="leftcol">
+        <div class="annabox">
+          <img id="lilpic" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/the-passage-to-the-sea-near-pourville-1882-claude-monet.jpg">
+          <a href="https://twitter.com/annasofialesiv">@annasofialesiv 🪴</a>
+          <p class="descript">I am a girl and I have a blog and I live in a world and I am cool cat lady person.</p>
+        </div>
+      </div>
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+  </body>
+
+</html>
