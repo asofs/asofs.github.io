@@ -27,12 +27,14 @@ In tic-tac-toe, the rules [are](https://www.exploratorium.edu/brain_explorer/tic
 -   The first player to get 3 marks in a row wins.
 -   If all nine squares are full and no player has managed a row-of-3, the game ends in a tie.
 
+
 Professor Gass adds, “a pure strategy is an overall plan specifying moves to be taken in all eventualities that can arise in a play of the game. A game is said to have perfect information if, throughout its play, all the rules, possible choices, and past history of play by any player are known to all participants. Games like tic-tac-toe, backgammon and chess are games with perfect information and such games are solved by pure strategies. But whereas you may be able to describe all such pure strategies for tic-tac-toe, it is not possible to do so for chess, hence the latter's age-old intrigue.”
 
 Sequential games can be visually mapped out in trees like the one below, and we can use them to assess which strategies are most optimal for players. The rules of the game below are:
 -   Players take turns picking whether to go left or right.
 -   Player 1 goes first, followed by Player 2, and then Player 3.
 -   After Player 3’s turn, the game ends and each player receives their payoff.
+
 
 By analyzing the payoff tree below, we can deduce what strategies players should take to end up with the highest payoff.
 
