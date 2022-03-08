@@ -198,17 +198,17 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit}));
+  max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit / 3;
-  padding-left: $spacing-unit / 3;
+  // margin-left: auto;
+  padding-right: $spacing-unit * 1;
+  padding-left: $spacing-unit * 1;
   @extend %clearfix;
 
   @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
+    max-width: calc(#{$content-width} - (#{$spacing-unit} * 8));
+    padding-right: $spacing-unit * 6;
+    padding-left: $spacing-unit * 2;
   }
 }
 
