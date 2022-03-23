@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ferrante's Philosophy'"
+title:  "Ferrante's Philosophy"
 date:   2022-03-23 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 ---
