@@ -34,7 +34,7 @@ I imagine this is the case for many of us when we write. A voice — from somewh
 
 This voice, according to Ferrante, the way it speaks, the things it finds funny, its moral compass, and so on, is composed of the swirl of stories, newspapers, films, television, songs we have consumed "almost without noticing."
 
-Writing down what this voice tells you is fine, but it's imitating a style and telling us what we already know. As Malevich would have said, it's copying. But this leads to an uncomfortable paradox - if they very way we think and speak is not our own, how are we to ever create anything original and insightful?
+Writing down what this voice tells you is fine, but it's imitating a style and telling us what we already know. As Malevich would have said, it's copying. But this leads to an uncomfortable paradox. If they very way we think and speak is not our own, how are we to ever create anything original and insightful?
 
 Ferrante uses Ingeborg Bachmann's words to explain. "We have to work hard with the bad lagnauge that we have inherited to arrive at that language which has never yet ruled, but which rules our intuition, and which we imitate."
 
@@ -56,20 +56,20 @@ It's how — and why — Malevich used standard paints on a flat canvas to inven
 
 Ferrante opens In The Margins with a poem by Gaspara Stampa, a great Italian Renaissance poet writing in the 16th century.
 
-*If I, a low and abject woman, may*
-*Bear, deep within myself, so bright a flame,*
-*Why should I not show the world today*
-*A mark of the style and vein of that same?*
-*If, to a place I could not seek to claim,*
-*Love’s new, unfamiliar spark has raised me,*
-*Why should it not, with fresh skill, equally,*
-*Give ‘pain’ and ‘pen’ in me an equal name?*
-*And if not by the simple force of nature*
-*Perchance by some miracle, that may*
-*Overcome, exceed, break every measure.*
-*How this might be I cannot truly say,*
-*I only know that, with my great venture,*
-*I feel my heart sets a new style in play.*
+*If I, a low and abject woman, may*  
+*Bear, deep within myself, so bright a flame,*  
+*Why should I not show the world today*  
+*A mark of the style and vein of that same?*  
+*If, to a place I could not seek to claim,*  
+*Love’s new, unfamiliar spark has raised me,*  
+*Why should it not, with fresh skill, equally,*  
+*Give ‘pain’ and ‘pen’ in me an equal name?*  
+*And if not by the simple force of nature*  
+*Perchance by some miracle, that may*  
+*Overcome, exceed, break every measure.*  
+*How this might be I cannot truly say,*  
+*I only know that, with my great venture,*  
+*I feel my heart sets a new style in play.*  
 
 "If ... I who feel that I am a woman to throw out, a woman without any value, am still capable of containing in myself a flame of love so sublime, why shouldn't I have at least a little inspiration and some beautiful words to give shape to that fire and show it to the world?" 
 
