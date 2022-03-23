@@ -13,7 +13,8 @@ After writing that series, Ferrante said she was done — and thankfully she was
 A lot of people that read In The Margins have said that this was a wonderful series of essays that gives us a behind-the-scenes look at Ferrante's inspirations, her writing process, and so on. But In The Margins is a lot more than that. It is Ferrante's philosophical treatise. 
 
 **The Real**
-Many great artists wrote works articulating the philosophy of their work. Kazimir Malevich wrote a treatise on Suprematism in his book "[Black Square](https://prom.ua/p1259196875-chernyj-kvadrat-kazimir.html)" — which unfortunately, I can't find any English translations of. Same with Mark Rothko, [anyone else?]. Reading these, you get the sense that the greatest ambition and struggle of artists is the same — the challenge of conveying the real.
+
+Many great artists wrote works articulating the philosophy of their work. Kazimir Malevich wrote a treatise on Suprematism in his book "[Black Square](https://prom.ua/p1259196875-chernyj-kvadrat-kazimir.html)" — which unfortunately, I can't find any English translations of. Mark Rothko did the same in [The Artist's Reality: Philosophies of Art](https://www.amazon.com/dp/B007XQ3VTG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). Reading these, you get the sense that the greatest ambition and struggle of artists is the same — the challenge of conveying the real.
 
 Malevich, for instance, hated realism. For him, a realistic painting was merely a copy of some object or scene that exists. There is nothing of the artist added to the finished work other than their fine skills and brush strokes. You have to move beyond reality and into abstraction in order to unearth something new to the viewer and connect them with the mind of the artist in an illuminating way.
 
@@ -22,6 +23,7 @@ Ferrante has the same challenge. No matter how hard you try to desribe an object
 "The "genuine 'real life'," as Dostoyevsky called it, is an obsession, a torment for the writer. With greater or less ability we fabricate fictions not so that the false will seem true but to tell the most unspeakable truth with absolute faithfulness through the fiction," she writes. This is fiction's greatest magic trick when done well — and it is Ferrante's speciality.
 
 **The Perspective**
+
 Of course what matters isn't just the object that you're depicting, but the position from which you're attempting to portray it. If you're painting a person, is it from the perspective of their profile, from behind, from a birds-eye view? The author's relationship to the object creates the narrative with which they describe it. 
 
 "From an aspirant to absolute realism I had become a disheartened realist, who now said to herself: I can recount "out there" only if I also recount the me who is out there along with all the rest," she says. 
@@ -41,6 +43,7 @@ Bachmann goes on, "I believe that old images, like Morike's and Goethe's, can no
 This ability to take existing "bad language" and contort it effectively around our "changed world" is the mark of a great writer. The greatest writers can take a language of cliches, and transform them into *new* cliches, *new* images which will in turn settle into the minds of future generations and dictate sentences to them.
 
 **The Point**
+
 The potential of creating a voice that can speak through the minds of many is, while not in itself the goal of writing, its power. 
 
 Our sense of humanity and the people that populated its past are, absent some technology like the [Animus](https://assassinscreed.fandom.com/wiki/Animus), understood almost exclusively through literary representation.  
