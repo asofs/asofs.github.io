@@ -14,7 +14,7 @@ The notion of humanity evolving or mutating into an improved, elevated form was 
 
 "The Classical culture possessed no memory, no organ of history in this special sense. The memory of the Classical man ... is something different, since past and future, as arraying perspectives in the working consciousness are absent and the "pure present," fills that life with an intensity that to us is perfectly unknown," writes Oswald Spengler in *The Decline of the West*.
 
-“To the Greeks, for example, historical events and destinies were certainly not simply meaningless — they were full of import and sense, bu they were not meaningful in the sense of being directed toward an ultimate end in a transcendent purpose that comprehends the whole course of events,” writes Karl Löwith in *Meaning and History*. 
+“To the Greeks, for example, historical events and destinies were certainly not simply meaningless — they were full of import and sense, but they were not meaningful in the sense of being directed toward an ultimate end in a transcendent purpose that comprehends the whole course of events,” writes Karl Löwith in *Meaning and History*. 
 
 The classical "pure present" of the ancients predicated a negation of time and direction. The Greeks had no use for functions or dynamics. Instead, their experience of the world relied on definite magnitudes and statics. Their system of mathematics, encapsulated by Euclidean geometry, arose out of a completely alien world-picture relative to our contemporary system of mathematics, expressed in calculus, or the infinite and imperceptible distances conveyed by the Cartesian plane. 
 
