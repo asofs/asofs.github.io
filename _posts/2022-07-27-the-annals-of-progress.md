@@ -4,7 +4,7 @@ title:  "The Annals of Progress"
 date:   2022-07-27 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 ---
-![classics and iPhones](/assets/greekiphones.png)
+![classics and iPhones](/assets/greekiphones.jpg)
 
 **The Classical Soul**
 

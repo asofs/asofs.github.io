@@ -4,6 +4,8 @@ title:  "Ferrante's Philosophy"
 date:   2022-03-23 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 ---
+![elena](/assets/elena.jpg)
+
 Elena Ferrante's novels are worlds unto themselves. The greatest of her works is certainly The Neopolitan Quartet, a series of four novels which span the entire lives of two girls born in post-war Naples. Throughout the first novel, My Brilliant Friend, you feel as though you've peered into the narrator's mind. All the "[secret thoughts, memories and confessions](http://elenaferrante.com/reviews/the-stanford-daily/)" of the narrator become as natural to you as your own, and by the end of the series, in The Story of The Lost Child, you feel as though you've lived another life. 
 
 Such a totalizing work of literature has been done successfully before, but it's worth mentioning that though Marcel Proust did this in *In Search of Lost Time* or, more recently, Karl Ove Knausgard did it in *My Struggle*, their works were entirely autobiographical. Elena Ferrante succeeded at this with fiction.

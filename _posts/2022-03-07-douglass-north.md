@@ -4,6 +4,8 @@ title:  "Douglass North on Institutions"
 date:   2022-03-07 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 ---
+![douglass](/assets/douglass.jpg)
+
 The late economist Douglass North is one of the most underrated in the field. He won the Nobel Prize, but you’ll never hear his name or work discussed in a traditional economics class. It’s a shame, because the work he produced was foundational to creating a coherent framework of how societies, power structures, and economies evolve.
 
 North was precocious and curious enough to triple major in political science, philosophy, and economics, yet not terribly concerned over something as cosmetic as a GPA — he graduated with a healthy C average from Berkeley. A clear bon vivant, he sailed the seas for three years as a deckhand and nearly became a photographer before ultimately opting to complete an economics PhD, a necessary step on the path to his eventual Nobel Prize. I like to imagine this wide aperture on life made North particularly able to pinpoint the paradoxes and puzzles that long went unexamined in economics.
