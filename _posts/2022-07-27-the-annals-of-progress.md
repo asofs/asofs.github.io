@@ -55,6 +55,7 @@ Among those urging a re-invigorated path onward, two positions are becoming clea
 Peter Thiel, who likewise wishes to accelerate scientific and real economic progress, believes we must re-inject the notion of a providential will into the course of this type of progress. It will be important to read within further advances in science and technology the workings of a divine will. And if this might not be convincing enough for some, then the argument that continued material progress is our only way out of a zero-sum world, which inevitably will plunge us into a Hobbesian or Malthusian trap, ought to seal the deal. 
 
 **Progress via Technology, not History**
+
 For centuries, the assessment of humanity’s direction has been studied through the lens of history. Historical events have been conceived of as the agents through which the will of reason or the divine make their mark. However, as it becomes increasingly clear that outside of some cataclysm, our world is inextricably chained to the path of industrialization and technicization we have ventured upon, the power of historical events to sway our course is waning. Elections and political events are no longer vessels through which ideas take hold. Immensely more influential are the designs of the technologies that govern the constraints and comforts of our lives.
 
 It is time to reframe our analysis of progress and view it not through the lens of history and historical events, but through a philosophy of the technologies which we develop, adopt and integrate into our daily lives.
