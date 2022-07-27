@@ -7,6 +7,7 @@ author: "Anna-Sofia Lesiv"
 ![classics and iPhones](/assets/greekiphones.png)
 
 **The Classical Soul**
+
 Humans did not always wish to progress. Unlike the present day, where our lives are consumed by thoughts and decisions made for a coming future, life in antiquity was entirely free from the conception of a future as such. 
 
 The notion of humanity evolving or mutating into an improved, elevated form was nonsense and unthinkable. For the Greeks, the following day was always the same as the present day, which itself was no better than the day preceding it.
@@ -18,6 +19,7 @@ The notion of humanity evolving or mutating into an improved, elevated form was 
 The classical "pure present" of the ancients predicated a negation of time and direction. The Greeks had no use for functions or dynamics. Instead, their experience of the world relied on definite magnitudes and statics. Their system of mathematics, encapsulated by Euclidean geometry, arose out of a completely alien world-picture relative to our contemporary system of mathematics, expressed in calculus, or the infinite and imperceptible distances conveyed by the Cartesian plane. 
 
 **The Western Soul**
+
 The Romans, with their expansionary, “unspiritual, unphilosophical” attitude, “aiming relentlessly at tangible successes,” marked a stark transition away from the ancient Greek’s spiritual concern with the pure present, and according to Spengler, marked the conclusion of the classical period. The Roman emphasis on intellect and pragmatism over culture marked the death of the classical soul. 
 
 The conception of money, “as an inorganic and abstract magnitude, entirely disconnected from the notion of the fruitful earth and the primitive values,” is an idea attributable to the Romans. Money as a salient metric on which one could measure the quality of life took root here. “It is possible to understand the Greeks without mentioning their economic relations; the Romans, on the other hand, can only be understood through these,” Spengler writes. 
@@ -35,6 +37,7 @@ The essence of this secularized Christian metaphysic was best encapsulated in Go
 The hubris and ambition of Dr. Faust was analogous to the hubris and ambition of the man of Enlightenment. "[Man] meant, not merely to plunder [Nature] of her materials, but to enslave and harness her very forces so as to multiply his own strength. This monstrous and unparalleled idea is as old as the Faustian Culture itself. Already the steam engine, the steamship, and the air machine are in the thoughts of Roger Bacon and Albertus Magnus. … Many a monk busied himself in his cell with the idea of Perpetual Motion. This last idea never thereafter let go its hold on us, for success would mean the final victory over ‘God or Nature.’ …. To build a world oneself, to be oneself God — that is the Faustian inventor’s dream, and from it has sprung all our designing and redesigning of machines to approximate as nearly as possible to the unattainable limit of perpetual motion," wrote Spengler.
 
 **The End of Progress**
+
 What has mankind received in exchange for its risky, Faustian bargain? We live in an era marked by profound discontent at the failures of the Enlightenment, irreversible environmental damage caused by industrial society, and a rampant spiritual emptiness in an existence mediated by cold, unfeeling, utilitarian reasoning. The world increasingly wants an escape out of its deal with the Devil. Though what kind of a bargain or ‘deal’ should take its place is still very unclear. 
 
 Time is still moving forward, and yet our salvation has seemingly been delayed given that [our promised continued economic and scientific progress has stopped](https://unherd.com/2022/07/peter-thiel-on-the-dangers-of-progress/).
