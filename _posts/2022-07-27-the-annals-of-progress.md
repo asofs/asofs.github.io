@@ -3,7 +3,7 @@ layout: post
 title:  "The Annals of Progress"
 date:   2022-07-27 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
-header: "https://annasofia.xyz/assets/greekiphones.jpg"
+header: "http://annasofia.xyz/assets/greekiphones.jpg"
 ---
 ![classics and iPhones](/assets/greekiphones.jpg)
 

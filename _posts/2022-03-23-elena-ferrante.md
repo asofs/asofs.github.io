@@ -3,7 +3,7 @@ layout: post
 title:  "Ferrante's Philosophy"
 date:   2022-03-23 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
-header: "https://annasofia.xyz/assets/elena.jpg"
+header: "http://annasofia.xyz/assets/elena.jpg"
 ---
 ![elena](/assets/elena.jpg)
 
