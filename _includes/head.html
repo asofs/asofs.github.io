@@ -3,11 +3,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.header %}
-  <meta property="twitter:image" content="{{ page.header }}">
+  <meta name="twitter:image" content="{{ page.header }}">
   <meta property="og:image" content="{{ page.header }}">
   {% else %}
     <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/1280px-Suprematist_Composition_-_Kazimir_Malevich.jpg">
-    <meta property="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/1280px-Suprematist_Composition_-_Kazimir_Malevich.jpg">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/1280px-Suprematist_Composition_-_Kazimir_Malevich.jpg">
   {% endif %}
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
