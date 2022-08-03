@@ -3,7 +3,7 @@ layout: post
 title:  "Douglass North on Institutions"
 date:   2022-03-07 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
-header: "https://annasofia.xyz/assets/douglass.jpg"
+header: "http://annasofia.xyz/assets/douglass.jpg"
 ---
 ![douglass](/assets/douglass.jpg)
 
