@@ -3,6 +3,7 @@ layout: post
 title:  "Lindy Structures"
 date:   2022-08-03 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
+header: "https://annasofia.xyz/assets/beanstalk.jpg"
 ---
 ![beanstalk](/assets/beanstalk.jpg)
 
