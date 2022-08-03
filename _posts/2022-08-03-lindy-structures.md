@@ -29,6 +29,12 @@ The great structures of the medieval period, too, were not built with the help o
 
 The most impressive structures, Gordon, seems to say, are the lindy ones. You needn't travel to a dense urban center, populated with tall skyscrapers to find structures worthy of our attention and awe. In fact, these kinds of structures are all around us, produced with painstaking care and experimentation by Nature. 
 
+It's a growing disinterest in the wonders of nature's mysteries that Gordon is pushing back against in his book. He is bored of the traditional materials used in modern construction. Limiting modern construction to only a handful of materials has constrained the scope of many contemporary engineers' curiosity and narrowed their skill sets.
+
+>"The use of metals, which are so conveniently tough and uniform, has taken some of the intuition and also some of the thinking out of engineering."
+
+>"On the whole, the introduction of steam and machinery resulted in a dilution of skills, and it also limited the range of materials in general use in 'advanced technology' to a few standardized rigid substances such as steel and concrete."
+
 The following quote, in part, explains Gordon's fascination with *materials*, which are crucial to understanding the composition of structures. 
 
 > There is no clear-cut dividing line between a material and a structure. Steel is undoubtedly a material and the Forth bridge is undoubtedly a structure, but reinforced concrete and wood and human flesh — all of which have a rather complicated constitution — may be considered as either materials or structures.
