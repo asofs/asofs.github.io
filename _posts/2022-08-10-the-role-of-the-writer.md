@@ -5,7 +5,7 @@ date:   2022-08-10 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 header: "http://annasofia.xyz/assets/monks.jpg"
 ---
-![seeing](/assets/monks.jpg)
+![monks](/assets/monks.jpg)
 
 A colleague of mine recently expressed his view to me that "there's nothing new under the sun." 
 
