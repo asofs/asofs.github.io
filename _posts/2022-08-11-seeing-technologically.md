@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seeing Technologically"
-date:   2022-08-11 12:00:00 -0600
+date:   2022-08-10 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
 header: "http://annasofia.xyz/assets/seeing.jpg"
 ---
