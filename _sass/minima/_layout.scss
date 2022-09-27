@@ -213,7 +213,7 @@
 
 #archives {
   color: #608a00;
-  padding-bottom: 10px; 
+  padding-bottom: 10px;
 }
 
 .annabox {
@@ -222,7 +222,7 @@
   height: 50px;
   display: flex;
   // background-color: #fff;
-  flex-direction: column; 
+  flex-direction: column;
   margin-left: auto;
   align-items: center;
   padding: 10px;
@@ -231,7 +231,7 @@
 @media (max-width: 800px) {
   .annabox {
     margin-right: auto;
-    height: 270px;
+    height: 380px;
   }
 }
 
