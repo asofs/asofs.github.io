@@ -61,7 +61,7 @@ But then, they're kind of missing this other side of like, yeah, maybe I don't n
 **Danny Crichton:**
 I was thinking this morning about how similar writing and software code is. I mean, they're really parallels right? They're quite interactive, and we seem to be entering a world in which we're increasingly doing hybrid technology. Software and hardware. Bio and tech, where it's not just enough to know the software, you actually have to know other fields of engineering and science in order to put it all together. And so, when we talk about literacy, even if you have software literacy, you don't necessarily have the complete literacy as to your first quote, from The Elements of Computing Systems, and to me that's a huge gap as we're entering the metaverse, VR, as more of our technologies are entering the physical world again. And I feel like we have to expand the definition of literacy quite a lot.
 
-**Anna-Sofia Lesiv**
+**Anna-Sofia Lesiv:**
 Okay, so maybe one good place to start is with this quote that 'technology is branch of moral philosophy.' To me, basically, any and every question about "should" resolves to some fundamental technology, in the sense that a technology is a mechanism for how something "should" be done. So I wanted to open that up to you guys and ask, what is the most valuable or operative framework that you use when looking at technology or when trying to critique it or ask questions about it? And another way of putting that is basically like, do you agree with this quote, that technology is a branch of moral philosophy? Or is it something else?
 
 **Danny Crichton:**
@@ -132,7 +132,7 @@ I do wonder, is it realistic to create a market for that? Going back to my own s
 
 And, there is a little bit of the like, "isn't it so cool how this thing works?" and everyone goes, "yeah, it's really interesting how this works," and then they go back to their lives. So I'm trying to think of how to draw that line from these more nuanced conversations. Like where do you see the impacts of that on someone's life?
 
-**Danny Crichton** 
+**Danny Crichton:** 
 This is an insight I've been thinking about and I haven't pushed the limit too far — but this is the first generation that widely codes. If you step back and look over the last 30-40 years, computer science used to be in really tight ivory tower circuits. At one point, you could actually meet every person who could code a computer, like in a room this size.
 
 I learned the code in elementary school and middle school, and it was really hard. I bought books, you went to Barnes and Noble and got like *How to Code C++*, like this was prior to Stack Overflow, all the tutorials, all the modern ways to learn, and now I think with Roblox, Minecraft, a bunch of other platforms, there's this openness, where people by default, maybe even if not at a very proficient level, are learning basic if statements, code structures, control structures, functions, at ridiculously early ages. So part of me is asking, maybe there's an audience for a lot of the stuff around technology today. 
@@ -322,7 +322,7 @@ It's like I'm creating more subjects versus creating more agents.
 **Nadia Asparouhova:** 
 Right. Whereas, I'm excited to have kids for the exact opposite reason! I'm like, yeah — go fix climate change, go save the world! So yeah, it's a totally different relationship.
 
-[**Lisa Wehden** ](https://twitter.com/lisawehden)
+[**Lisa Wehden:**](https://twitter.com/lisawehden)
 I just wanted to push you on that. Our technology now is going to influence the physical infrastructure at this juncture in which we have to rebuild our physical environment and therefore, we're going to use technology to redesign housing, electricity, climate change — there's a lot of different opportunities here. 
 
 As a result, I think this new segment of people are going to have to become much more technologically sophisticated. Do you feel like that is a trend in the right direction in terms of helping people regain agency over technology? As I hear you both speaking now, maybe you have technological literacy when you have agency over your devices, and that's what this means?
