@@ -7,7 +7,7 @@ header: "http://annasofia.xyz/assets/appletrees.png"
 ---
 ![trees](/assets/appletrees.png)
 
-The first blog I read religiously was Raw Thought.
+The first blog I read religiously was [Raw Thought](http://www.aaronsw.com/weblog/).
 
 It first opened my eyes to what a blog *could be*; diary, confessional, scratch pad of ideas, place to rant, advice column.
 
