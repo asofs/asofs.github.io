@@ -3,9 +3,9 @@ layout: post
 title:  "The Blog"
 date:   2024-02-13 12:00:00 -0600
 author: "Anna-Sofia Lesiv"
-header: "http://annasofia.xyz/assets/appletrees.jpg"
+header: "http://annasofia.xyz/assets/appletrees.png"
 ---
-![seeing](/assets/appletrees.jpg)
+![trees](/assets/appletrees.png)
 
 The first blog I read religiously was Raw Thought.
 
