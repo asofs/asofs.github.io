@@ -23,6 +23,4 @@ It was extremely tragic when Aaron's story ended all too soon, but the writings 
 
 Personal blogs were akin to personal gardens. There was so much to be surprised by, so much delight and joy to happen upon as you skipped through these private gardens, tended in public.
 
-For the most part, that kind of peer-to-peer ideal is gone now. It continues to exist only in small enclaves. Most online writing now lives on decidedly unsurprising platforms like Substack. There's a part of me that hopes, however, that people will re-discover the excitement that comes with having a unique spot of your own on the web. That they will find deep rewards not only in broadcasting their ideas, but an expansive sense of self-expression afforded by the freedom of the medium. After a brief hiatus, I'm unearthing my blogging habit. I have missed tending the garden, and missed engaging on ideas that require more than a few characters to convey.
-
-If you start, or already have a blog — let me know. I'd love to explore your corner of the web!
+For the most part, that kind of peer-to-peer ideal is gone now. It continues to exist only in small enclaves. Most online writing now lives on decidedly unsurprising platforms like Substack. There's a part of me that hopes, however, that people will re-discover the excitement that comes with having a unique spot of your own on the web. 
